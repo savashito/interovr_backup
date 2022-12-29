@@ -1,0 +1,108 @@
+HTTrack3.49-2 launched on Wed, 28 Dec 2022 14:00:02 at https://interovr.com
+(winhttrack https://interovr.com -O "/Users/savashito/websites/intero" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:04:32	Error: 	"Bad Request" (400) at link https://interovr.com/wp-admin/admin-ajax.php (from https://interovr.com/)
+14:04:32	Error: 	"Not Found" (404) at link https://interovr.com/es/comments/feed/ (from https://interovr.com/es/)
+14:05:20	Warning: 	Moved Permanently for https://interovr.com/?p=2388
+14:05:20	Warning: 	File has moved from https://interovr.com/?p=2388 to https://interovr.com/developers/
+14:05:22	Warning: 	Moved Permanently for https://interovr.com/?p=2299
+14:05:22	Warning: 	File has moved from https://interovr.com/?p=2299 to https://interovr.com/app/
+14:05:37	Warning: 	Moved Permanently for https://interovr.com/?p=73
+14:05:37	Warning: 	File has moved from https://interovr.com/?p=73 to https://interovr.com/virtual-reality-headset-for-sports/
+14:05:37	Warning: 	Moved Permanently for https://interovr.com/?p=1146
+14:05:37	Warning: 	File has moved from https://interovr.com/?p=1146 to https://interovr.com/press/
+14:06:43	Warning: 	Moved Permanently for https://interovr.com/?p=80
+14:06:43	Warning: 	File has moved from https://interovr.com/?p=80 to https://interovr.com/trial-gym/
+14:06:44	Error: 	"Not Found" (404) at link https://interovr.com/wp-json/wp/v2/users/1 (from https://interovr.com/author/sam/)
+14:06:44	Error: 	"Not Found" (404) at link https://interovr.com/author/sam/+52 1 55 8561 0889 (from https://interovr.com/author/sam/)
+14:06:55	Warning: 	Moved Permanently for https://interovr.com/?p=1076
+14:06:55	Warning: 	File has moved from https://interovr.com/?p=1076 to https://interovr.com/our-history/
+14:06:55	Warning: 	Moved Permanently for https://interovr.com/?p=525
+14:06:55	Warning: 	File has moved from https://interovr.com/?p=525 to https://interovr.com/team/
+14:06:55	Error: 	"Not Found" (404) at link https://interovr.com/team/AZ (from https://interovr.com/team/)
+14:06:55	Warning: 	Moved Permanently for https://interovr.com/?p=2190
+14:06:55	Warning: 	File has moved from https://interovr.com/?p=2190 to https://interovr.com/2019/07/25/intero-unam-lab/
+14:06:55	Warning: 	Moved Permanently for https://interovr.com/?p=1797
+14:06:55	Warning: 	File has moved from https://interovr.com/?p=1797 to https://interovr.com/2018/08/20/remo-mexicano-rumbo-a-los-juegos-olimpicos-de-la-juventud-2018/
+14:06:56	Warning: 	Moved Permanently for https://interovr.com/?p=1741
+14:06:56	Warning: 	File has moved from https://interovr.com/?p=1741 to https://interovr.com/term-service/
+14:06:56	Warning: 	Moved Permanently for https://interovr.com/?p=3
+14:06:56	Warning: 	File has moved from https://interovr.com/?p=3 to https://interovr.com/privacy-policy/
+14:06:56	Warning: 	Moved Permanently for https://interovr.com/?p=1437
+14:06:56	Warning: 	File has moved from https://interovr.com/?p=1437 to https://interovr.com/es/pruebalo-en-tu-gimnasio/
+14:06:56	Warning: 	Moved Permanently for https://interovr.com/?p=1148
+14:06:56	Warning: 	File has moved from https://interovr.com/?p=1148 to https://interovr.com/es/visor/
+14:06:56	Warning: 	Moved Permanently for https://interovr.com/?p=1659
+14:06:56	Warning: 	File has moved from https://interovr.com/?p=1659 to https://interovr.com/es/noticias/
+14:07:51	Error: 	"Not Found" (404) at link https://interovr.com/es/author/sam/+52 1 55 8561 0889 (from https://interovr.com/es/author/sam/)
+14:07:53	Warning: 	Moved Permanently for https://interovr.com/?p=1759
+14:07:53	Warning: 	File has moved from https://interovr.com/?p=1759 to https://interovr.com/es/2018/07/23/mexico-arrasa-en-remo-en-los-xxiii-juegos-centroamericanos-y-del-caribe-barranquilla-2018/
+14:07:53	Warning: 	Moved Permanently for https://interovr.com/?p=1727
+14:07:53	Warning: 	File has moved from https://interovr.com/?p=1727 to https://interovr.com/es/2018/07/03/holand-beker-unam-ganan/
+14:07:53	Error: 	"Not Found" (404) at link https://interovr.com/wp-json/wp/v2/users/6 (from https://interovr.com/author/rebeccarogers/)
+14:07:53	Warning: 	Moved Permanently for https://interovr.com/?p=2302
+14:07:53	Warning: 	File has moved from https://interovr.com/?p=2302 to https://interovr.com/es/app-2/
+14:07:53	Warning: 	Moved Permanently for https://interovr.com/?p=1
+14:07:53	Warning: 	File has moved from https://interovr.com/?p=1 to https://interovr.com/2018/05/25/https-www-youtube-com-watchvw8mvglxzjzqt1s/
+14:07:53	Warning: 	Moved Permanently for https://interovr.com/?p=108
+14:07:53	Warning: 	File has moved from https://interovr.com/?p=108 to https://interovr.com/2018/05/12/watch-our-demos/
+14:08:15	Error: 	"Not Found" (404) at link https://interovr.com/membership (from https://interovr.com/2018/05/12/watch-our-demos/)
+14:08:33	Warning: 	Moved Permanently for https://interovr.com/?p=96
+14:08:33	Warning: 	File has moved from https://interovr.com/?p=96 to https://interovr.com/2018/05/11/gaceta-unam-has-published-a-post-about-intero/
+14:08:33	Warning: 	Moved Permanently for https://interovr.com/?p=102
+14:08:33	Warning: 	File has moved from https://interovr.com/?p=102 to https://interovr.com/2018/05/10/simple-crossfit-principles-you-can-include-in-your-next-workout/
+14:08:33	Warning: 	Moved Permanently for https://interovr.com/?p=1584
+14:08:33	Warning: 	File has moved from https://interovr.com/?p=1584 to https://interovr.com/2018/05/09/this-virtual-reality-app-designer-is-a-real-life-tucson-badass/
+14:08:33	Warning: 	Moved Permanently for https://interovr.com/?p=105
+14:08:33	Warning: 	File has moved from https://interovr.com/?p=105 to https://interovr.com/2018/05/08/the-myths-of-shedding-body-fat-explored/
+14:08:33	Warning: 	Moved Permanently for https://interovr.com/?p=99
+14:08:33	Warning: 	File has moved from https://interovr.com/?p=99 to https://interovr.com/2018/05/07/the-10-biggest-mistakes-that-every-gym-members-makes/
+14:08:33	Warning: 	Moved Permanently for https://interovr.com/?p=719
+14:08:33	Warning: 	File has moved from https://interovr.com/?p=719 to https://interovr.com/2018/05/06/most-popular-new-workout-methods/
+14:08:33	Warning: 	Moved Permanently for https://interovr.com/?p=93
+14:08:33	Warning: 	File has moved from https://interovr.com/?p=93 to https://interovr.com/2018/05/05/10-ways-to-improve-your-core-strength/
+14:08:33	Warning: 	Moved Permanently for https://interovr.com/?p=721
+14:08:33	Warning: 	File has moved from https://interovr.com/?p=721 to https://interovr.com/2018/05/04/best-way-to-track-your-body-stats/
+14:08:33	Warning: 	Moved Permanently for https://interovr.com/?p=1556
+14:08:33	Warning: 	File has moved from https://interovr.com/?p=1556 to https://interovr.com/2018/05/03/fundacion-unam/
+14:08:33	Warning: 	Moved Permanently for https://interovr.com/?p=111
+14:08:33	Warning: 	File has moved from https://interovr.com/?p=111 to https://interovr.com/2018/05/01/to-be-number-one-you-have-to-train-like-youre-number-two/
+14:08:33	Warning: 	Moved Permanently for https://interovr.com/?p=1600
+14:08:33	Warning: 	File has moved from https://interovr.com/?p=1600 to https://interovr.com/2018/04/05/unam-shared-a-publication-on-their-social-media/
+14:08:33	Error: 	"Not Found" (404) at link https://interovr.com/author/sam/page/2/+52 1 55 8561 0889 (from https://interovr.com/author/sam/page/2/)
+14:08:33	Error: 	"Not Found" (404) at link https://interovr.com/wp-json/wp/v2/users/4 (from https://interovr.com/author/mariana/)
+14:08:33	Warning: 	Moved Permanently for https://interovr.com/?p=1606
+14:08:33	Warning: 	File has moved from https://interovr.com/?p=1606 to https://interovr.com/es/2018/05/25/checa-nuestras-noticias/
+14:08:33	Warning: 	Moved Permanently for https://interovr.com/?p=1613
+14:08:33	Warning: 	File has moved from https://interovr.com/?p=1613 to https://interovr.com/es/2018/05/12/mira-nuestros-demos/
+14:08:33	Warning: 	Moved Permanently for https://interovr.com/?p=1626
+14:08:33	Warning: 	File has moved from https://interovr.com/?p=1626 to https://interovr.com/es/2018/05/11/gaceta-unam-publico-a-cerca-de-intero/
+14:08:33	Warning: 	Moved Permanently for https://interovr.com/?p=1630
+14:08:33	Warning: 	File has moved from https://interovr.com/?p=1630 to https://interovr.com/es/2018/05/10/excelsior-tv-publico-nuestro-trabajo/
+14:08:33	Warning: 	Moved Permanently for https://interovr.com/?p=1633
+14:08:33	Warning: 	File has moved from https://interovr.com/?p=1633 to https://interovr.com/es/2018/05/09/this-virtual-reality-app-designer-is-a-real-life-tucson-badass-2/
+14:08:34	Warning: 	Moved Permanently for https://interovr.com/?p=1637
+14:08:34	Warning: 	File has moved from https://interovr.com/?p=1637 to https://interovr.com/es/2018/05/08/tv-unam-compartio-nuestro-trabajo/
+14:08:34	Warning: 	Moved Permanently for https://interovr.com/?p=1640
+14:08:34	Warning: 	File has moved from https://interovr.com/?p=1640 to https://interovr.com/es/2018/05/07/noticias-del-df-compartio/
+14:08:34	Warning: 	Moved Permanently for https://interovr.com/?p=1643
+14:08:34	Warning: 	File has moved from https://interovr.com/?p=1643 to https://interovr.com/es/2018/05/06/la-jornada-publico-nuestro-trabajo-en-el-periodico/
+14:08:34	Warning: 	Moved Permanently for https://interovr.com/?p=1676
+14:08:34	Warning: 	File has moved from https://interovr.com/?p=1676 to https://interovr.com/es/2018/05/05/tv-azteca-noticias-compartio-una-publicacion-acerca-de-nuestro-trabajo/
+14:08:34	Warning: 	Moved Permanently for https://interovr.com/?p=1679
+14:08:34	Warning: 	File has moved from https://interovr.com/?p=1679 to https://interovr.com/es/2018/05/04/notimex-compartio-una-publicacion-de-intero/
+14:08:34	Warning: 	Moved Permanently for https://interovr.com/?p=1682
+14:08:34	Warning: 	File has moved from https://interovr.com/?p=1682 to https://interovr.com/es/2018/05/03/fundacion-unam-compartio-nuestro-trabajo/
+14:08:34	Warning: 	Moved Permanently for https://interovr.com/?p=1686
+14:08:34	Warning: 	File has moved from https://interovr.com/?p=1686 to https://interovr.com/es/2018/05/01/experimentos-con-electroencefalograma-con-musica-y-movimiento/
+14:08:34	Warning: 	Moved Permanently for https://interovr.com/?p=1690
+14:08:34	Warning: 	File has moved from https://interovr.com/?p=1690 to https://interovr.com/es/2018/04/05/unam-compartio-una-publicacion-en-sus-redes-sociales/
+14:08:34	Error: 	"Not Found" (404) at link https://interovr.com/es/author/sam/page/2/+52 1 55 8561 0889 (from https://interovr.com/es/author/sam/page/2/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 37 seconds : 665 links scanned, 610 files written (105168101 bytes overall) [67984158 bytes received at 131497 bytes/sec], 44311326 bytes transferred using HTTP compression in 378 files, ratio 14%
+(11 errors, 86 warnings, 0 messages)
